@@ -8,7 +8,7 @@ Implementação de uma infraestrutura escalável e segura utilizando **Docker**,
 
 ---
 
-## 📡 Ambientes Deployados
+## 📡 Ambientes em Deploy
 
 | Branch | Ambiente | URL | Status | Nota | 
 | :--- | :--- | :--- | :--- | :--- |
