@@ -1,4 +1,4 @@
-# Desafio DevOps - Lacrei Saúde 💚
+# Desafio DevOps - Lacrei Saúde 
 
 Este repositório contém a solução para o Desafio DevOps da Lacrei Saúde, apresentando um pipeline CI/CD completo para deploy automatizado de aplicações Node.js na AWS.
 
